@@ -1,4 +1,7 @@
-#  cnn-esp32-electrical-device-ident
+# MBA USP/ESALQ - Data Science and Analytics  - Trabalho de Conclusão de Curso (TCC)
 
-## Rede Neural Convolucional Embarcada para a Identificação de Aparelhos Elétricos em uma Residência
+## Título
+
+Aplicação de TinyML no Monitoramento de Consumo Elétrico Residencial
+
 
